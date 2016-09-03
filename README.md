@@ -1,0 +1,1 @@
+# QuickApi for Typecho
